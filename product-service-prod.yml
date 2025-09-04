@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+app:
+  message: "Product Service running in PROD environment"
